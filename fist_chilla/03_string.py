@@ -1,0 +1,6 @@
+print("Hello world")
+print("we are learning with sir Ammar")
+print("helo brother!")
+print("what's up?")
+print('''whats up''')
+print('''ali said "I wears aslam's clothes" ''')
